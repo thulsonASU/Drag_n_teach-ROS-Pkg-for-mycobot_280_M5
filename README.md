@@ -9,7 +9,7 @@ Here is a link to the Elephant Robotics [gitbook](https://docs.elephantrobotics.
 # How to Use
 
 ## Install Linux 20.04 then Follow ROS Noetic and MoveIt install guides
-I won't be providing links for installing Linux 20.04 in this tutorial. I simply recommend either a virtual machine, dual boot, or dedicated Linux machine
+I won't be providing links for installing Linux 20.04 in this tutorial. I simply recommend either a virtual machine, dual boot, or dedicated Linux machine.
 
 [ROS Noetic Install Tutorial](http://wiki.ros.org/noetic/Installation/Ubuntu)
 
