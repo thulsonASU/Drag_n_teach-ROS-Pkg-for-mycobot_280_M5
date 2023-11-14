@@ -1,0 +1,1 @@
+/home/thulson/catkin_ws/devel/.private/drag_n_teach/lib/pkgconfig/drag_n_teach.pc

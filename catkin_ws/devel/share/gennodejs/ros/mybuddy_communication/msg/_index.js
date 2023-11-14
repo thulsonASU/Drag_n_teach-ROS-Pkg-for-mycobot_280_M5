@@ -1,0 +1,1 @@
+/home/thulson/catkin_ws/devel/.private/mybuddy_communication/share/gennodejs/ros/mybuddy_communication/msg/_index.js

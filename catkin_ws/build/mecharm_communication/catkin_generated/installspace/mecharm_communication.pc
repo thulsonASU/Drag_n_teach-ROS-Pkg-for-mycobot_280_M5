@@ -1,0 +1,8 @@
+prefix=/home/thulson/catkin_ws/install
+
+Name: mecharm_communication
+Description: Description of mecharm_communication
+Version: 0.1.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime std_msgs

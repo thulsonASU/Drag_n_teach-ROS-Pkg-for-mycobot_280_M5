@@ -1,0 +1,1 @@
+/home/thulson/catkin_ws/devel/.private/mycobot_280jn_moveit/lib/mycobot_280jn_moveit/path_planning_and_obstacle_avoidance_demo.py

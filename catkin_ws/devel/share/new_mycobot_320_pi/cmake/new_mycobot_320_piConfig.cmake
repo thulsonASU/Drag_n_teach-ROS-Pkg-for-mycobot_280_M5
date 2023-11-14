@@ -1,0 +1,1 @@
+/home/thulson/catkin_ws/devel/.private/new_mycobot_320_pi/share/new_mycobot_320_pi/cmake/new_mycobot_320_piConfig.cmake

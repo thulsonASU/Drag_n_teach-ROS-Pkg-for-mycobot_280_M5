@@ -1,0 +1,6 @@
+<!-- FILEPATH: /home/thulson/catkin_ws/src/drag_n_teach/launch/drag_n_teach_gui.launch -->
+
+<launch>
+  <!-- Launch drag_n_teach_gui.py -->
+  <node name="drag_n_teach_gui" pkg="drag_n_teach" type="drag_n_teach_gui.py" output="screen"/>
+</launch>

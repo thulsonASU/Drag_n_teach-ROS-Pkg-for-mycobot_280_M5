@@ -1,0 +1,36 @@
+<launch>
+
+	<arg name="db" default="false" />
+	<arg name="db_path" default="$(find mycobot_280_moveit)/default_warehouse_mongo_db" />
+	
+	<arg name="model" default="$(find mycobot_description)/urdf/mycobot/mycobot_urdf.urdf"/>
+	<arg name="gui" default="true" />
+	<arg name="rvizconfig" default="$(find drag_n_teach)/config/rviz_traj_config.rviz" />
+
+	<param name="robot_description" command="$(find xacro)/xacro --inorder $(arg model)" />
+	
+	<!-- Semantic Description -->
+	<param name="robot_description_semantic" textfile="$(find mycobot_280_moveit)/config/firefighter.srdf"/>
+	<!-- Load Kinematics yaml -->
+	<rosparam file="$(find mycobot_280_moveit)/config/kinematics.yaml" command="load" />
+	
+	<!-- Start the move_group action server -->
+  	<include file="$(find mycobot_280_moveit)/launch/move_group.launch">
+    	<arg name="fake_execution" value="true"/>
+  	</include>
+
+	<node name="robot_state_publisher" pkg="robot_state_publisher" type="robot_state_publisher" />
+	<node name="joint_state_publisher_gui" pkg="joint_state_publisher_gui" type="joint_state_publisher_gui"> 
+	</node>
+
+	<!-- Open and run tool-cordtopose.py -->
+	<node name="tool_posetocord" pkg="drag_n_teach" type="tool_posetocord.py" output="screen">
+	</node>
+
+	<node name="rviz" pkg="rviz" type="rviz" args="-d $(arg rvizconfig)" required="true" />
+	
+	<include file="$(find mycobot_280_moveit)/launch/default_warehouse_db.launch" if="$(arg db)">
+    	<arg name="moveit_warehouse_database_path" value="$(arg db_path)"/>
+  	</include>
+
+</launch>

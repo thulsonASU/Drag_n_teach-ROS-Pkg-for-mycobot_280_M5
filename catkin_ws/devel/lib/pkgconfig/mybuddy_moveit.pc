@@ -1,0 +1,1 @@
+/home/thulson/catkin_ws/devel/.private/mybuddy_moveit/lib/pkgconfig/mybuddy_moveit.pc

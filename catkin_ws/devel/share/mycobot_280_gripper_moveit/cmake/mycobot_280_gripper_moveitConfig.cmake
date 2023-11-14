@@ -1,0 +1,1 @@
+/home/thulson/catkin_ws/devel/.private/mycobot_280_gripper_moveit/share/mycobot_280_gripper_moveit/cmake/mycobot_280_gripper_moveitConfig.cmake

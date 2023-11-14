@@ -1,0 +1,8 @@
+prefix=/home/thulson/catkin_ws/devel/.private/ultraarm
+
+Name: ultraarm
+Description: Description of ultraarm
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: std_msgs actionlib

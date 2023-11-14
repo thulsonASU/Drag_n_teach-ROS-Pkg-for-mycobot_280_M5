@@ -1,0 +1,8 @@
+prefix=/home/thulson/catkin_ws/devel/.private/ai_mycobot_280
+
+Name: ai_mycobot_280
+Description: Description of ai_mycobot_280
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,1 @@
+/home/thulson/catkin_ws/devel/.private/mybuddy_socket_moveit/share/mybuddy_socket_moveit/cmake/mybuddy_socket_moveitConfig.cmake

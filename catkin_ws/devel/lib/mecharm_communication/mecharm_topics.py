@@ -1,0 +1,1 @@
+/home/thulson/catkin_ws/devel/.private/mecharm_communication/lib/mecharm_communication/mecharm_topics.py

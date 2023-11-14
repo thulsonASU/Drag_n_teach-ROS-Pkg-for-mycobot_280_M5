@@ -1,0 +1,1 @@
+/home/thulson/catkin_ws/devel/.private/mycobot_600_moveit/share/mycobot_600_moveit/cmake/mycobot_600_moveitConfig-version.cmake

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/thulson/catkin_ws/devel/.private/new_mycobot_320_pi_moveit/setup.sh

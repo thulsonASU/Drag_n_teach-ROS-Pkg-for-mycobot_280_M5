@@ -1,0 +1,8 @@
+prefix=/home/thulson/catkin_ws/devel/.private/mycobot_280pi_moveit
+
+Name: mycobot_280pi_moveit
+Description: Description of mycobot_280pi_moveit
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

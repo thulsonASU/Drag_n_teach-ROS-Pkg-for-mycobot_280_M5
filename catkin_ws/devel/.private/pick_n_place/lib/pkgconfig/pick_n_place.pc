@@ -1,0 +1,8 @@
+prefix=/home/thulson/catkin_ws/devel/.private/pick_n_place
+
+Name: pick_n_place
+Description: Description of pick_n_place
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

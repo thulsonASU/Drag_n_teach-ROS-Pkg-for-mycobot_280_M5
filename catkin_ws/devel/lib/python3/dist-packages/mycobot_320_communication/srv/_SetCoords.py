@@ -1,0 +1,1 @@
+/home/thulson/catkin_ws/devel/.private/mycobot_320_communication/lib/python3/dist-packages/mycobot_320_communication/srv/_SetCoords.py

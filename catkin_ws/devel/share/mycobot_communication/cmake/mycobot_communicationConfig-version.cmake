@@ -1,0 +1,1 @@
+/home/thulson/catkin_ws/devel/.private/mycobot_communication/share/mycobot_communication/cmake/mycobot_communicationConfig-version.cmake

@@ -1,0 +1,1 @@
+/home/thulson/catkin_ws/devel/.private/mecharm_moveit/lib/mecharm_moveit/path_planning_and_obstacle_avoidance_demo.py

@@ -1,0 +1,1 @@
+/home/thulson/catkin_ws/devel/.private/mycobot_320_communication/share/gennodejs/ros/mycobot_320_communication/msg/MycobotSetAngles.js

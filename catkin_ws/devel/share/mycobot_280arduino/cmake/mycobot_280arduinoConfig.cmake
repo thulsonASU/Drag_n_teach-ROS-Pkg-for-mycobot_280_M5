@@ -1,0 +1,1 @@
+/home/thulson/catkin_ws/devel/.private/mycobot_280arduino/share/mycobot_280arduino/cmake/mycobot_280arduinoConfig.cmake

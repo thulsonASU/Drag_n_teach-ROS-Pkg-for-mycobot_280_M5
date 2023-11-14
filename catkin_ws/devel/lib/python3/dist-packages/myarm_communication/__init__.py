@@ -1,0 +1,1 @@
+/home/thulson/catkin_ws/devel/.private/myarm_communication/lib/python3/dist-packages/myarm_communication/__init__.py

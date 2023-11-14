@@ -1,0 +1,1 @@
+/home/thulson/catkin_ws/devel/.private/cobotx_a450/lib/pkgconfig/cobotx_a450.pc

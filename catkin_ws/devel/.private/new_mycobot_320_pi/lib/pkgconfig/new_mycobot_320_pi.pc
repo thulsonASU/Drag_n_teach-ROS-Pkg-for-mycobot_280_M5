@@ -1,0 +1,8 @@
+prefix=/home/thulson/catkin_ws/devel/.private/new_mycobot_320_pi
+
+Name: new_mycobot_320_pi
+Description: Description of new_mycobot_320_pi
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: std_msgs actionlib

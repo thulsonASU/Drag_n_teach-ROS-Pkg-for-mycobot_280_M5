@@ -1,0 +1,1 @@
+/home/thulson/catkin_ws/devel/.private/new_mycobot_320_moveit/lib/pkgconfig/new_mycobot_320_moveit.pc

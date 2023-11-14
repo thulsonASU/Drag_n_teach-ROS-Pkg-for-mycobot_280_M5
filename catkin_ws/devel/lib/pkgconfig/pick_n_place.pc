@@ -1,0 +1,1 @@
+/home/thulson/catkin_ws/devel/.private/pick_n_place/lib/pkgconfig/pick_n_place.pc

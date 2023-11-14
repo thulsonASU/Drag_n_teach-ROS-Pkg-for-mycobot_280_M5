@@ -1,0 +1,23 @@
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target _ultraarm_communication_generate_messages_check_deps_GripperStatus
+[  0%] Built target _ultraarm_communication_generate_messages_check_deps_ultraArmCoords
+[  0%] Built target _ultraarm_communication_generate_messages_check_deps_PumpStatus
+[  0%] Built target _ultraarm_communication_generate_messages_check_deps_SetAngles
+[  0%] Built target _ultraarm_communication_generate_messages_check_deps_GetCoords
+[  0%] Built target _ultraarm_communication_generate_messages_check_deps_GetAngles
+[  0%] Built target _ultraarm_communication_generate_messages_check_deps_ultraArmAngles
+[  0%] Built target _ultraarm_communication_generate_messages_check_deps_ultraArmSetAngles
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target _ultraarm_communication_generate_messages_check_deps_ultraArmSetCoords
+[  0%] Built target _ultraarm_communication_generate_messages_check_deps_SetCoords
+[  0%] Built target _ultraarm_communication_generate_messages_check_deps_ultraArmGripperStatus
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target _ultraarm_communication_generate_messages_check_deps_ultraArmPumpStatus
+[ 19%] Built target ultraarm_communication_generate_messages_nodejs
+[ 38%] Built target ultraarm_communication_generate_messages_lisp
+[ 58%] Built target ultraarm_communication_generate_messages_eus
+[ 77%] Built target ultraarm_communication_generate_messages_cpp
+[100%] Built target ultraarm_communication_generate_messages_py
+[100%] Built target ultraarm_communication_generate_messages

@@ -1,0 +1,8 @@
+prefix=/home/thulson/catkin_ws/install
+
+Name: myarm
+Description: Description of myarm
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: std_msgs actionlib

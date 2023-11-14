@@ -1,0 +1,1 @@
+/home/thulson/catkin_ws/devel/.private/ultraarm_communication/share/gennodejs/ros/ultraarm_communication/srv/SetCoords.js

@@ -1,0 +1,5 @@
+mycobot_ros/Mybuddy/mybuddy_moveit
+/home/thulson/catkin_ws/devel/.private/mybuddy_moveit/cmake.lock /home/thulson/catkin_ws/devel/./cmake.lock
+/home/thulson/catkin_ws/devel/.private/mybuddy_moveit/lib/pkgconfig/mybuddy_moveit.pc /home/thulson/catkin_ws/devel/lib/pkgconfig/mybuddy_moveit.pc
+/home/thulson/catkin_ws/devel/.private/mybuddy_moveit/share/mybuddy_moveit/cmake/mybuddy_moveitConfig.cmake /home/thulson/catkin_ws/devel/share/mybuddy_moveit/cmake/mybuddy_moveitConfig.cmake
+/home/thulson/catkin_ws/devel/.private/mybuddy_moveit/share/mybuddy_moveit/cmake/mybuddy_moveitConfig-version.cmake /home/thulson/catkin_ws/devel/share/mybuddy_moveit/cmake/mybuddy_moveitConfig-version.cmake

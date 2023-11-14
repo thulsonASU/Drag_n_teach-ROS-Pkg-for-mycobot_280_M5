@@ -1,0 +1,1 @@
+/home/thulson/catkin_ws/devel/.private/mycobot_280jn_moveit/share/mycobot_280jn_moveit/cmake/mycobot_280jn_moveitConfig.cmake

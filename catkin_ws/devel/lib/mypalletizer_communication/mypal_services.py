@@ -1,0 +1,1 @@
+/home/thulson/catkin_ws/devel/.private/mypalletizer_communication/lib/mypalletizer_communication/mypal_services.py

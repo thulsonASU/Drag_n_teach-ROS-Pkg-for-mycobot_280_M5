@@ -1,0 +1,23 @@
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target _cobotx_a450_communication_generate_messages_check_deps_GetCoords
+[  0%] Built target _cobotx_a450_communication_generate_messages_check_deps_GripperStatus
+[  0%] Built target _cobotx_a450_communication_generate_messages_check_deps_CobotXPumpStatus
+[  0%] Built target _cobotx_a450_communication_generate_messages_check_deps_SetCoords
+[  0%] Built target _cobotx_a450_communication_generate_messages_check_deps_CobotXGripperStatus
+[  0%] Built target _cobotx_a450_communication_generate_messages_check_deps_CobotXSetCoords
+[  0%] Built target _cobotx_a450_communication_generate_messages_check_deps_PumpStatus
+[  0%] Built target _cobotx_a450_communication_generate_messages_check_deps_GetAngles
+[  0%] Built target _cobotx_a450_communication_generate_messages_check_deps_CobotXSetAngles
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target _cobotx_a450_communication_generate_messages_check_deps_CobotXAngles
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target _cobotx_a450_communication_generate_messages_check_deps_CobotXCoords
+[  0%] Built target _cobotx_a450_communication_generate_messages_check_deps_SetAngles
+[ 26%] Built target cobotx_a450_communication_generate_messages_lisp
+[ 38%] Built target cobotx_a450_communication_generate_messages_nodejs
+[ 60%] Built target cobotx_a450_communication_generate_messages_py
+[ 96%] Built target cobotx_a450_communication_generate_messages_eus
+[100%] Built target cobotx_a450_communication_generate_messages_cpp
+[100%] Built target cobotx_a450_communication_generate_messages

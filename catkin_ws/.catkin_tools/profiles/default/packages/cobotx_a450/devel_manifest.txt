@@ -1,0 +1,15 @@
+mycobot_ros/CobotX/cobotx_a450
+/home/thulson/catkin_ws/devel/.private/cobotx_a450/cmake.lock /home/thulson/catkin_ws/devel/./cmake.lock
+/home/thulson/catkin_ws/devel/.private/cobotx_a450/lib/pkgconfig/cobotx_a450.pc /home/thulson/catkin_ws/devel/lib/pkgconfig/cobotx_a450.pc
+/home/thulson/catkin_ws/devel/.private/cobotx_a450/lib/cobotx_a450/listen_real.py /home/thulson/catkin_ws/devel/lib/cobotx_a450/listen_real.py
+/home/thulson/catkin_ws/devel/.private/cobotx_a450/lib/cobotx_a450/follow_display.py /home/thulson/catkin_ws/devel/lib/cobotx_a450/follow_display.py
+/home/thulson/catkin_ws/devel/.private/cobotx_a450/lib/cobotx_a450/following_marker.py /home/thulson/catkin_ws/devel/lib/cobotx_a450/following_marker.py
+/home/thulson/catkin_ws/devel/.private/cobotx_a450/lib/cobotx_a450/cmake.lock /home/thulson/catkin_ws/devel/lib/cobotx_a450/cmake.lock
+/home/thulson/catkin_ws/devel/.private/cobotx_a450/lib/cobotx_a450/follow_and_pump.py /home/thulson/catkin_ws/devel/lib/cobotx_a450/follow_and_pump.py
+/home/thulson/catkin_ws/devel/.private/cobotx_a450/lib/cobotx_a450/listen_real_of_topic.py /home/thulson/catkin_ws/devel/lib/cobotx_a450/listen_real_of_topic.py
+/home/thulson/catkin_ws/devel/.private/cobotx_a450/lib/cobotx_a450/slider_control.py /home/thulson/catkin_ws/devel/lib/cobotx_a450/slider_control.py
+/home/thulson/catkin_ws/devel/.private/cobotx_a450/lib/cobotx_a450/teleop_keyboard.py /home/thulson/catkin_ws/devel/lib/cobotx_a450/teleop_keyboard.py
+/home/thulson/catkin_ws/devel/.private/cobotx_a450/lib/cobotx_a450/simple_gui.py /home/thulson/catkin_ws/devel/lib/cobotx_a450/simple_gui.py
+/home/thulson/catkin_ws/devel/.private/cobotx_a450/lib/cobotx_a450/detect_marker.py /home/thulson/catkin_ws/devel/lib/cobotx_a450/detect_marker.py
+/home/thulson/catkin_ws/devel/.private/cobotx_a450/share/cobotx_a450/cmake/cobotx_a450Config-version.cmake /home/thulson/catkin_ws/devel/share/cobotx_a450/cmake/cobotx_a450Config-version.cmake
+/home/thulson/catkin_ws/devel/.private/cobotx_a450/share/cobotx_a450/cmake/cobotx_a450Config.cmake /home/thulson/catkin_ws/devel/share/cobotx_a450/cmake/cobotx_a450Config.cmake

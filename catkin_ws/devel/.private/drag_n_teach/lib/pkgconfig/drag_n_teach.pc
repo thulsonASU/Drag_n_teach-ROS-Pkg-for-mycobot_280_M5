@@ -1,0 +1,8 @@
+prefix=/home/thulson/catkin_ws/devel/.private/drag_n_teach
+
+Name: drag_n_teach
+Description: Description of drag_n_teach
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

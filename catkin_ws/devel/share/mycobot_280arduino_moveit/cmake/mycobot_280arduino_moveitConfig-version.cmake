@@ -1,0 +1,1 @@
+/home/thulson/catkin_ws/devel/.private/mycobot_280arduino_moveit/share/mycobot_280arduino_moveit/cmake/mycobot_280arduino_moveitConfig-version.cmake

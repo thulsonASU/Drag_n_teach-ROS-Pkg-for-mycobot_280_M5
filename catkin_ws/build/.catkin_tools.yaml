@@ -1,0 +1,6 @@
+devel_space: /home/thulson/catkin_ws/devel
+install: false
+install_space: /home/thulson/catkin_ws/install
+profile: default
+source_space: /home/thulson/catkin_ws/src
+workspace: /home/thulson/catkin_ws

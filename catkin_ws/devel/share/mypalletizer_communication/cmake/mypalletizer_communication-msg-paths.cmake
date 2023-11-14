@@ -1,0 +1,1 @@
+/home/thulson/catkin_ws/devel/.private/mypalletizer_communication/share/mypalletizer_communication/cmake/mypalletizer_communication-msg-paths.cmake

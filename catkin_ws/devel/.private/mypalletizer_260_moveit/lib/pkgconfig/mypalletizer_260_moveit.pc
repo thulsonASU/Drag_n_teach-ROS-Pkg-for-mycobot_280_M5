@@ -1,0 +1,8 @@
+prefix=/home/thulson/catkin_ws/devel/.private/mypalletizer_260_moveit
+
+Name: mypalletizer_260_moveit
+Description: Description of mypalletizer_260_moveit
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

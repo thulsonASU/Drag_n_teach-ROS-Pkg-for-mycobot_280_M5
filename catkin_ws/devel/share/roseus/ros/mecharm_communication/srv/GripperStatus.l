@@ -1,0 +1,1 @@
+/home/thulson/catkin_ws/devel/.private/mecharm_communication/share/roseus/ros/mecharm_communication/srv/GripperStatus.l

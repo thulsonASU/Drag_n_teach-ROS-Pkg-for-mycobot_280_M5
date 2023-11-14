@@ -1,0 +1,1 @@
+/home/thulson/catkin_ws/devel/.private/mypalletizer_communication/include/mypalletizer_communication/MypalAngles.h

@@ -1,0 +1,1 @@
+/home/thulson/catkin_ws/devel/.private/mycobot_communication/lib/python3/dist-packages/mycobot_communication/msg/__init__.py

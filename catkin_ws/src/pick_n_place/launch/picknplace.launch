@@ -1,0 +1,10 @@
+<launch>
+	<!-- Select connecting device and serial port-->
+	<arg name="port" default="/dev/ttyACM0" />
+	<arg name="baud" default="115200" />
+
+    <include file="$(find mycobot_communication)/launch/communication_service.launch">
+		<arg name="port" value="$(arg port)" />	
+		<arg name="baud" value="$(arg baud)" />	
+    </include>
+</launch>

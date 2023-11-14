@@ -1,0 +1,8 @@
+mycobot_ros/mypalletizer_260/mypalletizer_260_moveit
+/home/thulson/catkin_ws/devel/.private/mypalletizer_260_moveit/cmake.lock /home/thulson/catkin_ws/devel/./cmake.lock
+/home/thulson/catkin_ws/devel/.private/mypalletizer_260_moveit/lib/pkgconfig/mypalletizer_260_moveit.pc /home/thulson/catkin_ws/devel/lib/pkgconfig/mypalletizer_260_moveit.pc
+/home/thulson/catkin_ws/devel/.private/mypalletizer_260_moveit/lib/mypalletizer_260_moveit/sync_plan.py /home/thulson/catkin_ws/devel/lib/mypalletizer_260_moveit/sync_plan.py
+/home/thulson/catkin_ws/devel/.private/mypalletizer_260_moveit/lib/mypalletizer_260_moveit/path_planning_and_obstacle_avoidance_demo.py /home/thulson/catkin_ws/devel/lib/mypalletizer_260_moveit/path_planning_and_obstacle_avoidance_demo.py
+/home/thulson/catkin_ws/devel/.private/mypalletizer_260_moveit/lib/mypalletizer_260_moveit/cmake.lock /home/thulson/catkin_ws/devel/lib/mypalletizer_260_moveit/cmake.lock
+/home/thulson/catkin_ws/devel/.private/mypalletizer_260_moveit/share/mypalletizer_260_moveit/cmake/mypalletizer_260_moveitConfig.cmake /home/thulson/catkin_ws/devel/share/mypalletizer_260_moveit/cmake/mypalletizer_260_moveitConfig.cmake
+/home/thulson/catkin_ws/devel/.private/mypalletizer_260_moveit/share/mypalletizer_260_moveit/cmake/mypalletizer_260_moveitConfig-version.cmake /home/thulson/catkin_ws/devel/share/mypalletizer_260_moveit/cmake/mypalletizer_260_moveitConfig-version.cmake

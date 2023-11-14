@@ -1,0 +1,23 @@
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target _mycobot_320_communication_generate_messages_check_deps_PumpStatus
+[  0%] Built target _mycobot_320_communication_generate_messages_check_deps_SetAngles
+[  0%] Built target _mycobot_320_communication_generate_messages_check_deps_MycobotSetAngles
+[  0%] Built target _mycobot_320_communication_generate_messages_check_deps_GripperStatus
+[  0%] Built target _mycobot_320_communication_generate_messages_check_deps_SetCoords
+[  0%] Built target _mycobot_320_communication_generate_messages_check_deps_MycobotGripperStatus
+[  0%] Built target _mycobot_320_communication_generate_messages_check_deps_GetAngles
+[  0%] Built target _mycobot_320_communication_generate_messages_check_deps_MycobotPumpStatus
+[  0%] Built target _mycobot_320_communication_generate_messages_check_deps_MycobotCoords
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target _mycobot_320_communication_generate_messages_check_deps_GetCoords
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _mycobot_320_communication_generate_messages_check_deps_MycobotSetCoords
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target _mycobot_320_communication_generate_messages_check_deps_MycobotAngles
+[ 19%] Built target mycobot_320_communication_generate_messages_lisp
+[ 57%] Built target mycobot_320_communication_generate_messages_nodejs
+[ 61%] Built target mycobot_320_communication_generate_messages_py
+[ 79%] Built target mycobot_320_communication_generate_messages_cpp
+[100%] Built target mycobot_320_communication_generate_messages_eus
+[100%] Built target mycobot_320_communication_generate_messages

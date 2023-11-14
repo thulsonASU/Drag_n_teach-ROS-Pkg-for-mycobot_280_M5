@@ -1,0 +1,1 @@
+/home/thulson/catkin_ws/devel/.private/mycobot_600/lib/pkgconfig/mycobot_600.pc

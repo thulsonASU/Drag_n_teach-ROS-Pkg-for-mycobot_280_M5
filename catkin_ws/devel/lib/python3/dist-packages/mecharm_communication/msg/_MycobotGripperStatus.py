@@ -1,0 +1,1 @@
+/home/thulson/catkin_ws/devel/.private/mecharm_communication/lib/python3/dist-packages/mecharm_communication/msg/_MycobotGripperStatus.py

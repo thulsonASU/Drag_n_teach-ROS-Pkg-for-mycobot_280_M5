@@ -1,0 +1,1 @@
+/home/thulson/catkin_ws/devel/.private/mypalletizer_260/share/mypalletizer_260/cmake/mypalletizer_260Config-version.cmake

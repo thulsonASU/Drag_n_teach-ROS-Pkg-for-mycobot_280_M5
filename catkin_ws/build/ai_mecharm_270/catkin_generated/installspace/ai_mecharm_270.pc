@@ -1,0 +1,8 @@
+prefix=/home/thulson/catkin_ws/install
+
+Name: ai_mecharm_270
+Description: Description of ai_mecharm_270
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

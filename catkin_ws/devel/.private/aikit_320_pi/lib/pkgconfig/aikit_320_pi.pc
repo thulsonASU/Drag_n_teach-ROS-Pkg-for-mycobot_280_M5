@@ -1,0 +1,8 @@
+prefix=/home/thulson/catkin_ws/devel/.private/aikit_320_pi
+
+Name: aikit_320_pi
+Description: Description of aikit_320_pi
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

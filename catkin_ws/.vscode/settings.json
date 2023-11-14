@@ -1,0 +1,12 @@
+{
+    "ros.distro": "noetic",
+    "cmake.sourceDirectory": "/home/thulson/catkin_ws/src/drag_n_teach",
+    "python.autoComplete.extraPaths": [
+        "/home/thulson/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/thulson/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}

@@ -1,0 +1,1 @@
+/home/thulson/catkin_ws/devel/.private/mypalletizer_260_moveit/lib/mypalletizer_260_moveit/path_planning_and_obstacle_avoidance_demo.py

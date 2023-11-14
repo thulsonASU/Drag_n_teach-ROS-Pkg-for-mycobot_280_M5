@@ -1,0 +1,1 @@
+/home/thulson/catkin_ws/devel/.private/mycobot_280pi/share/mycobot_280pi/cmake/mycobot_280piConfig-version.cmake

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/thulson/catkin_ws/devel/.private/drag_n_teach/setup.sh

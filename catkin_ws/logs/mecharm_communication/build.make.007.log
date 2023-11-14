@@ -1,0 +1,23 @@
+[  0%] Built target _mecharm_communication_generate_messages_check_deps_GripperStatus
+[  0%] Built target _mecharm_communication_generate_messages_check_deps_MycobotCoords
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _mecharm_communication_generate_messages_check_deps_MycobotSetAngles
+[  0%] Built target _mecharm_communication_generate_messages_check_deps_MycobotAngles
+[  0%] Built target _mecharm_communication_generate_messages_check_deps_MycobotPumpStatus
+[  0%] Built target _mecharm_communication_generate_messages_check_deps_MycobotSetCoords
+[  0%] Built target _mecharm_communication_generate_messages_check_deps_SetAngles
+[  0%] Built target _mecharm_communication_generate_messages_check_deps_MycobotGripperStatus
+[  0%] Built target _mecharm_communication_generate_messages_check_deps_PumpStatus
+[  0%] Built target _mecharm_communication_generate_messages_check_deps_GetCoords
+[  0%] Built target _mecharm_communication_generate_messages_check_deps_GetAngles
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target _mecharm_communication_generate_messages_check_deps_SetCoords
+[  0%] Built target std_msgs_generate_messages_lisp
+[ 36%] Built target mecharm_communication_generate_messages_nodejs
+[ 38%] Built target mecharm_communication_generate_messages_cpp
+[ 60%] Built target mecharm_communication_generate_messages_py
+[ 80%] Built target mecharm_communication_generate_messages_eus
+[100%] Built target mecharm_communication_generate_messages_lisp
+[100%] Built target mecharm_communication_generate_messages

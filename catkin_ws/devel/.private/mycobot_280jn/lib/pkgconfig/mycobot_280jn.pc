@@ -1,0 +1,8 @@
+prefix=/home/thulson/catkin_ws/devel/.private/mycobot_280jn
+
+Name: mycobot_280jn
+Description: Description of mycobot_280jn
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: std_msgs actionlib

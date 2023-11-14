@@ -1,0 +1,8 @@
+prefix=/home/thulson/catkin_ws/devel/.private/mycobot_320_communication
+
+Name: mycobot_320_communication
+Description: Description of mycobot_320_communication
+Version: 0.1.0
+Cflags: -I/home/thulson/catkin_ws/devel/.private/mycobot_320_communication/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime std_msgs

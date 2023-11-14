@@ -1,0 +1,8 @@
+prefix=/home/thulson/catkin_ws/install
+
+Name: mecharm_moveit
+Description: Description of mecharm_moveit
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

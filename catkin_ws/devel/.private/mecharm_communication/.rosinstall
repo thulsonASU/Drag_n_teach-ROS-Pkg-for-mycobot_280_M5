@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/thulson/catkin_ws/devel/.private/mecharm_communication/setup.sh

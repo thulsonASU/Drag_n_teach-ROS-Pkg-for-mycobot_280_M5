@@ -1,0 +1,19 @@
+<launch>
+	
+	<arg name="model" default="$(find mycobot_description)/urdf/mycobot/mycobot_urdf.urdf"/>
+	<arg name="gui" default="true" />
+	<arg name="rvizconfig" default="$(find drag_n_teach)/config/rviz_traj_config.rviz" />
+
+	<param name="robot_description" command="$(find xacro)/xacro --inorder $(arg model)" />
+	
+	<!-- Semantic Description -->
+	<param name="robot_description_semantic" textfile="$(find mycobot_280_moveit)/config/firefighter.srdf"/>
+
+	<node name="robot_state_publisher" pkg="robot_state_publisher" type="robot_state_publisher" />
+
+	<node name="tool_playback" pkg="drag_n_teach" type="tool_playback.py" output="screen">
+	</node>
+
+	<node name="rviz" pkg="rviz" type="rviz" args="-d $(arg rvizconfig)" required="true" />
+
+</launch>

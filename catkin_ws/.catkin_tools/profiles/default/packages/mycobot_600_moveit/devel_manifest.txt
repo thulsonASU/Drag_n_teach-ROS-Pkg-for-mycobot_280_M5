@@ -1,0 +1,8 @@
+mycobot_ros/mycobot_pro/mycobot_600_moveit
+/home/thulson/catkin_ws/devel/.private/mycobot_600_moveit/cmake.lock /home/thulson/catkin_ws/devel/./cmake.lock
+/home/thulson/catkin_ws/devel/.private/mycobot_600_moveit/lib/mycobot_600_moveit/sync_plan.py /home/thulson/catkin_ws/devel/lib/mycobot_600_moveit/sync_plan.py
+/home/thulson/catkin_ws/devel/.private/mycobot_600_moveit/lib/mycobot_600_moveit/path_planning_and_obstacle_avoidance_demo.py /home/thulson/catkin_ws/devel/lib/mycobot_600_moveit/path_planning_and_obstacle_avoidance_demo.py
+/home/thulson/catkin_ws/devel/.private/mycobot_600_moveit/lib/mycobot_600_moveit/cmake.lock /home/thulson/catkin_ws/devel/lib/mycobot_600_moveit/cmake.lock
+/home/thulson/catkin_ws/devel/.private/mycobot_600_moveit/lib/pkgconfig/mycobot_600_moveit.pc /home/thulson/catkin_ws/devel/lib/pkgconfig/mycobot_600_moveit.pc
+/home/thulson/catkin_ws/devel/.private/mycobot_600_moveit/share/mycobot_600_moveit/cmake/mycobot_600_moveitConfig-version.cmake /home/thulson/catkin_ws/devel/share/mycobot_600_moveit/cmake/mycobot_600_moveitConfig-version.cmake
+/home/thulson/catkin_ws/devel/.private/mycobot_600_moveit/share/mycobot_600_moveit/cmake/mycobot_600_moveitConfig.cmake /home/thulson/catkin_ws/devel/share/mycobot_600_moveit/cmake/mycobot_600_moveitConfig.cmake

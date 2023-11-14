@@ -1,0 +1,8 @@
+prefix=/home/thulson/catkin_ws/install
+
+Name: ai_mypalletizer_260
+Description: Description of ai_mypalletizer_260
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

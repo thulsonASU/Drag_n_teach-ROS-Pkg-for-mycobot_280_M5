@@ -1,0 +1,8 @@
+mycobot_ros/mecharm/mecharm_pi_moveit
+/home/thulson/catkin_ws/devel/.private/mecharm_pi_moveit/cmake.lock /home/thulson/catkin_ws/devel/./cmake.lock
+/home/thulson/catkin_ws/devel/.private/mecharm_pi_moveit/lib/pkgconfig/mecharm_pi_moveit.pc /home/thulson/catkin_ws/devel/lib/pkgconfig/mecharm_pi_moveit.pc
+/home/thulson/catkin_ws/devel/.private/mecharm_pi_moveit/lib/mecharm_pi_moveit/sync_plan.py /home/thulson/catkin_ws/devel/lib/mecharm_pi_moveit/sync_plan.py
+/home/thulson/catkin_ws/devel/.private/mecharm_pi_moveit/lib/mecharm_pi_moveit/path_planning_and_obstacle_avoidance_demo.py /home/thulson/catkin_ws/devel/lib/mecharm_pi_moveit/path_planning_and_obstacle_avoidance_demo.py
+/home/thulson/catkin_ws/devel/.private/mecharm_pi_moveit/lib/mecharm_pi_moveit/cmake.lock /home/thulson/catkin_ws/devel/lib/mecharm_pi_moveit/cmake.lock
+/home/thulson/catkin_ws/devel/.private/mecharm_pi_moveit/share/mecharm_pi_moveit/cmake/mecharm_pi_moveitConfig-version.cmake /home/thulson/catkin_ws/devel/share/mecharm_pi_moveit/cmake/mecharm_pi_moveitConfig-version.cmake
+/home/thulson/catkin_ws/devel/.private/mecharm_pi_moveit/share/mecharm_pi_moveit/cmake/mecharm_pi_moveitConfig.cmake /home/thulson/catkin_ws/devel/share/mecharm_pi_moveit/cmake/mecharm_pi_moveitConfig.cmake

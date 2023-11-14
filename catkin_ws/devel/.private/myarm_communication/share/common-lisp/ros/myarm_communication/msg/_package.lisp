@@ -1,0 +1,17 @@
+(cl:defpackage myarm_communication-msg
+  (:use )
+  (:export
+   "<MYARMANGLES>"
+   "MYARMANGLES"
+   "<MYARMCOORDS>"
+   "MYARMCOORDS"
+   "<MYARMGRIPPERSTATUS>"
+   "MYARMGRIPPERSTATUS"
+   "<MYARMPUMPSTATUS>"
+   "MYARMPUMPSTATUS"
+   "<MYARMSETANGLES>"
+   "MYARMSETANGLES"
+   "<MYARMSETCOORDS>"
+   "MYARMSETCOORDS"
+  ))
+

@@ -1,0 +1,1 @@
+/home/thulson/catkin_ws/devel/.private/mypalletizer_260_moveit/lib/pkgconfig/mypalletizer_260_moveit.pc

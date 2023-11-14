@@ -1,0 +1,1 @@
+/home/thulson/catkin_ws/devel/.private/mypalletizer_communication/share/common-lisp/ros/mypalletizer_communication/msg/MypalPumpStatus.lisp

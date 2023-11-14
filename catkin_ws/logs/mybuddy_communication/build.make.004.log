@@ -1,0 +1,23 @@
+[  0%] Built target _mybuddy_communication_generate_messages_check_deps_PumpStatus
+[  0%] Built target _mybuddy_communication_generate_messages_check_deps_MybuddyCoords
+[  0%] Built target _mybuddy_communication_generate_messages_check_deps_GetCoords
+[  0%] Built target _mybuddy_communication_generate_messages_check_deps_MybuddyGripperStatus
+[  0%] Built target _mybuddy_communication_generate_messages_check_deps_MybuddyAngles
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target _mybuddy_communication_generate_messages_check_deps_SetCoords
+[  0%] Built target _mybuddy_communication_generate_messages_check_deps_MybuddySetCoords
+[  0%] Built target _mybuddy_communication_generate_messages_check_deps_MybuddySetAngles
+[  0%] Built target _mybuddy_communication_generate_messages_check_deps_MybuddyPumpStatus
+[  0%] Built target _mybuddy_communication_generate_messages_check_deps_SetAngles
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target _mybuddy_communication_generate_messages_check_deps_GetAngles
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target _mybuddy_communication_generate_messages_check_deps_GripperStatus
+[ 20%] Built target mybuddy_communication_generate_messages_eus
+[ 39%] Built target mybuddy_communication_generate_messages_lisp
+[ 58%] Built target mybuddy_communication_generate_messages_nodejs
+[ 77%] Built target mybuddy_communication_generate_messages_cpp
+[100%] Built target mybuddy_communication_generate_messages_py
+[100%] Built target mybuddy_communication_generate_messages

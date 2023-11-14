@@ -1,0 +1,1 @@
+/home/thulson/catkin_ws/devel/.private/mypalletizer_communication/share/gennodejs/ros/mypalletizer_communication/msg/MypalGripperStatus.js

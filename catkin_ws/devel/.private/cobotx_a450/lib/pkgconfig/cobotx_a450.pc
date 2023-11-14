@@ -1,0 +1,8 @@
+prefix=/home/thulson/catkin_ws/devel/.private/cobotx_a450
+
+Name: cobotx_a450
+Description: Description of cobotx_a450
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: std_msgs actionlib

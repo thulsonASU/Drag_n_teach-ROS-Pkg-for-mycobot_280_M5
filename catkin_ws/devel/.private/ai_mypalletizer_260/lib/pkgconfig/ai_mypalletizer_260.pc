@@ -1,0 +1,8 @@
+prefix=/home/thulson/catkin_ws/devel/.private/ai_mypalletizer_260
+
+Name: ai_mypalletizer_260
+Description: Description of ai_mypalletizer_260
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

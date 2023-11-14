@@ -1,0 +1,8 @@
+prefix=/home/thulson/catkin_ws/install
+
+Name: new_mycobot_320_moveit
+Description: Description of new_mycobot_320_moveit
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/thulson/catkin_ws/install
+
+Name: mybuddy
+Description: Description of mybuddy
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: std_msgs actionlib

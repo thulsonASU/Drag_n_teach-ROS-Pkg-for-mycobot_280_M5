@@ -1,0 +1,1 @@
+/home/thulson/catkin_ws/devel/.private/mycobot_600_moveit/lib/mycobot_600_moveit/sync_plan.py

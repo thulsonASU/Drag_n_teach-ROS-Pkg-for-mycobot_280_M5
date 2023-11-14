@@ -1,0 +1,1 @@
+/home/thulson/catkin_ws/devel/.private/mybuddy/share/mybuddy/cmake/mybuddyConfig-version.cmake

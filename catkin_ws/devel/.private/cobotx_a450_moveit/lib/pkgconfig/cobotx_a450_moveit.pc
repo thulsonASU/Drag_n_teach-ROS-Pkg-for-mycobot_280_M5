@@ -1,0 +1,8 @@
+prefix=/home/thulson/catkin_ws/devel/.private/cobotx_a450_moveit
+
+Name: cobotx_a450_moveit
+Description: Description of cobotx_a450_moveit
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,1 @@
+/home/thulson/catkin_ws/devel/.private/mycobot_280/lib/mycobot_280/slider_control_gripper.py

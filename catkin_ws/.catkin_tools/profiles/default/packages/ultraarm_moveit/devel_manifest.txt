@@ -1,0 +1,8 @@
+mycobot_ros/ultraArm/ultraarm_moveit
+/home/thulson/catkin_ws/devel/.private/ultraarm_moveit/cmake.lock /home/thulson/catkin_ws/devel/./cmake.lock
+/home/thulson/catkin_ws/devel/.private/ultraarm_moveit/lib/pkgconfig/ultraarm_moveit.pc /home/thulson/catkin_ws/devel/lib/pkgconfig/ultraarm_moveit.pc
+/home/thulson/catkin_ws/devel/.private/ultraarm_moveit/lib/ultraarm_moveit/sync_plan.py /home/thulson/catkin_ws/devel/lib/ultraarm_moveit/sync_plan.py
+/home/thulson/catkin_ws/devel/.private/ultraarm_moveit/lib/ultraarm_moveit/path_planning_and_obstacle_avoidance_demo.py /home/thulson/catkin_ws/devel/lib/ultraarm_moveit/path_planning_and_obstacle_avoidance_demo.py
+/home/thulson/catkin_ws/devel/.private/ultraarm_moveit/lib/ultraarm_moveit/cmake.lock /home/thulson/catkin_ws/devel/lib/ultraarm_moveit/cmake.lock
+/home/thulson/catkin_ws/devel/.private/ultraarm_moveit/share/ultraarm_moveit/cmake/ultraarm_moveitConfig-version.cmake /home/thulson/catkin_ws/devel/share/ultraarm_moveit/cmake/ultraarm_moveitConfig-version.cmake
+/home/thulson/catkin_ws/devel/.private/ultraarm_moveit/share/ultraarm_moveit/cmake/ultraarm_moveitConfig.cmake /home/thulson/catkin_ws/devel/share/ultraarm_moveit/cmake/ultraarm_moveitConfig.cmake

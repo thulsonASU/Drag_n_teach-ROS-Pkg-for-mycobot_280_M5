@@ -1,0 +1,8 @@
+prefix=/home/thulson/catkin_ws/devel/.private/mycobot_600
+
+Name: mycobot_600
+Description: Description of mycobot_600
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
