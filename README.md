@@ -2,7 +2,9 @@
 
 <br /> **Basic Description** <br />
 
-This package for ROS is titled drag_n_teach and includes tools for integrating with MoveIt using mycobot 280 M5 from Elephant Robotics. The GUI is capable of basic movement and does not include the adaptive gripper. Future work for this GUI would include gripper control / services to open and close the gripper at certain poses. Additionally, changing the Unified Robot Description Format (URDF) and Semantic Robot Description Format (SRDF) to include the gripper in rviz and collision detection. 
+This package for ROS is titled drag_n_teach and includes tools for integrating with MoveIt using mycobot 280 M5 from Elephant Robotics. The GUI is capable of basic movement and does not include the adaptive gripper. Future work for this GUI would include gripper control / services to open and close the gripper at certain poses. Additionally, changing the Unified Robot Description Format (URDF) and Semantic Robot Description Format (SRDF) to include the gripper in rviz and collision detection.
+
+Here is a link to the Elephant Robotics [gitbook](https://docs.elephantrobotics.com/docs/gitbook-en/12-ApplicationBaseROS/). 
 
 # How to Use
 
