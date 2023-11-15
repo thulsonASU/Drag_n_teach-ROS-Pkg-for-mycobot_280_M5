@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-
-# write an approrpiate comment block that describes this script, what it does, how it works, and its dependancies
 """
 This script is used to save the current pose of the end effector to a CSV file. 
 It is designed to be used with the Drag_n_Teach ROS package. 
