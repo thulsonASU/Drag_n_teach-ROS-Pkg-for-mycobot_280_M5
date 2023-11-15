@@ -2,7 +2,7 @@
 
 <br /> **Basic Description** <br />
 
-This custom package for ROS is titled drag_n_teach and includes tools for integrating with MoveIt using mycobot 280 M5 from Elephant Robotics. The GUI is capable of basic movement and does not include the adaptive gripper. Future work for this GUI would include gripper control / services to open and close the gripper at certain poses. Additionally, changing the Unified Robot Description Format (URDF) and Semantic Robot Description Format (SRDF) to include the gripper in rviz for collision detection.
+"drag_n_teach" is a custom ROS package with MoveIt integration tools specifically designed for myCobot 280 M5Stack 6-axis collaborative robot arm from Elephant Robotics. The 6-axis robot arm positions are captured, stored, and replayed via the GUI controls. Future work for this GUI would include gripper control / services to open and close the gripper at certain poses. Additionally, changing the Unified Robot Description Format (URDF) and Semantic Robot Description Format (SRDF) to include the gripper in rviz for collision detection.
 
 Here is a link to the Elephant Robotics [gitbook](https://docs.elephantrobotics.com/docs/gitbook-en/12-ApplicationBaseROS/). 
 
